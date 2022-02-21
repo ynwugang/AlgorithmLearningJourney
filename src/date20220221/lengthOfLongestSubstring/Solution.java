@@ -1,4 +1,4 @@
-package lengthOfLongestSubstring;
+package date20220221.lengthOfLongestSubstring;
 
 import java.util.HashMap;
 import java.util.HashSet;

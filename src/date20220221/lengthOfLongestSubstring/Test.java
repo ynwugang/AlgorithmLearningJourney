@@ -1,6 +1,4 @@
-package lengthOfLongestSubstring;
-
-import java.util.Date;
+package date20220221.lengthOfLongestSubstring;
 
 /**
  * @author wugang
